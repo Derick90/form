@@ -35,9 +35,15 @@ body{
     color: blue;
 }
 #button:hover{
-    background-color: black;
+    background-color: blue;
 }
 
 #form p a{
     text-decoration: none;
+}
+#error{
+    color: red;
+}
+#pass{
+    color: red;
 }
